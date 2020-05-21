@@ -11,7 +11,7 @@ See the [latest documentation](https://JuliaRobotics.github.io/RigidBodySim.jl/l
 
 # Demo video
 
-The video below shows Atlas walking using the MIT Robot Locomotion Group controller, simulated in realtime using RigidBodySim.jl.
+The video below shows Atlas walking using the MIT sRobot Locomotion Group controller, simulated in realtime using RigidBodySim.jl.
 
 **Note**: RigidBodySim.jl is now using MeshCat instead of Director as its viewer; the video below has not yet been updated to reflect this change.
 
